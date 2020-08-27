@@ -3,10 +3,6 @@
 # Coursera assessment
 # "Getting and Cleaning Data" https://class.coursera.org/getdata-010
 
-# Script: run_analysis.R
-# Author: Axel Rose <axel.roeslein@googlemail.com>
-# No Copyrights, Public Domain
-# January 2015
 
 # task description:
 # You should create one R script called run_analysis.R that does the following. 
